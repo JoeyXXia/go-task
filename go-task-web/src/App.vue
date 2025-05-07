@@ -6,4 +6,9 @@
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.app {
+  width: 100vw;
+  height: 100vh;
+}
+</style>

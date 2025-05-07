@@ -6,6 +6,9 @@ import App from "./App.vue";
 
 import router from "./router";
 
+import registerIcons from "./utils/register-icon";
+
 const app = createApp(App);
+app.use(registerIcons);
 app.use(router);
 app.mount("#app");

@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="main">main</div>
+  <div class="login-account">login-account</div>
 </template>
 
 <style lang="less" scoped></style>
