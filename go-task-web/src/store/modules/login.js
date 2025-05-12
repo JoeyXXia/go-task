@@ -1,4 +1,4 @@
-const { defineStore } = require("pinia");
+import { defineStore } from "pinia";
 
 const useLonginStore = defineStore("login", {
   state: () => ({
